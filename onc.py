@@ -989,3 +989,4 @@ if patients == 100:
     print("═"*60)
     name = input("Please enter your name: ")
     print(f"Hey {name}, unfortunately our 100 daily capacity was reached. Please return tomorrow at 8:00 AM.")
+#End
